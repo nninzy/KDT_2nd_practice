@@ -23,5 +23,7 @@
 5. 깃허브 저장소 접속 후 `Pull Request` 수행 [아래 이미지 참고]
 
 ![](assets/pr_1.png)
+---
 ![](assets/pr_2.png)
+---
 ![](assets/pr_3.png)
